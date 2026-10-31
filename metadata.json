@@ -1,0 +1,6 @@
+{
+  "name": "Modern Maharani Fashions",
+  "description": "Trendy & affordable women's ethnic and fusion wear. Stylish kurti sets, everyday co-ords, festive anarkalis, and ready-to-wear dresses designed for modern Indian women.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
